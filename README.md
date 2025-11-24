@@ -45,6 +45,14 @@ Investigated a critical incident with a breached SLA, documented findings in wor
 Completed the request fulfillment by documenting delivery notes and closing the request.
 ![Work Notes](/Images/ServiceNow6.png)
 
+## Tools & Technologies
+- ServiceNow ITSM
+- Service Operations Workspace
+- Incident & Request Management workflows
+- SLA tracking & monitoring
+- ITIL foundations
+- Work notes & communication tools
+
 ## Purpose
 This project was created to strengthen core ITSM skills and gain hand-on experience with:
 
